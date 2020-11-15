@@ -1,2 +1,2 @@
 # PHICOMM-N1-Downgrade
-Downgrade firmware for PHICOMM N1.
+Downgrade firmware for PHICOMM.
